@@ -1,0 +1,19 @@
+.main {
+  background: rgb(12, 10, 17);
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  background: white;
+  border-radius: 5px;
+  width: 320px;
+  padding: 20px;
+  height: 300px;
+  overflow-y: auto;
+}
+.gif {
+  width: 100%;
+}
